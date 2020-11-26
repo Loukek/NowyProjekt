@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args){
-        System.out.println("no siema");
+        int a = 5;
+        int b = 3;
+        System.out.println("Wynik to: " + (a * b));
+
     }
 }
